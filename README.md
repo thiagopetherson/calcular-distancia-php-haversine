@@ -1,6 +1,6 @@
 # Calculadora de Distância entre Coordenadas Geográficas
 
-Este é um projeto simples de uma calculadora de distância entre coordenadas geográficas. A aplicação permite calcular a distância em quilômetros entre duas pontos geográficos.
+Este é um projeto simples de uma calculadora de distância entre coordenadas geográficas. A aplicação permite calcular a distância em quilômetros entre dois pontos geográficos.
 
 ## Tecnologia Utilizada
 
